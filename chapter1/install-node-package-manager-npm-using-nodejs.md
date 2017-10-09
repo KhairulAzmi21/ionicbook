@@ -31,7 +31,7 @@ npm -v
 Output of the command:  
 ![](/assets/Screen Shot 2017-10-09 at 11.50.37 AM.png "npm -info")
 
-# Mac User
+# ![](/assets/if_45_apple_353490 %281%29.png) Mac User
 
 ---
 
@@ -58,7 +58,7 @@ npm -v
 Output of the command:  
 ![](/assets/Screen Shot 2017-10-09 at 11.50.37 AM.png "npm -info")
 
-####  
+#### 
 
 
 
