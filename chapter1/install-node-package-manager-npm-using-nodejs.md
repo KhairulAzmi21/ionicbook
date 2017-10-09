@@ -20,7 +20,7 @@ Download the latest version
 
 Double click on the downloaded nodejs program and follow thru the installation steps. Once finished follow the next step.
 
-#### Step 4: Open the Terminal Window \(cmd/bash\)
+#### Step 4: Check if npm is install
 
 Type the command to check if npm is install or not in your local machine.
 
@@ -47,7 +47,17 @@ Output of the command:
 
 ![](/assets/Screen Shot 2017-10-09 at 11.56.11 AM.png)
 
-#### Step 4: Open the Terminal Window \(cmd/bash\)
+#### Step 4: Install npm
+
+Open terminal and type
+
+```
+brew install node
+```
+
+#### ![](/assets/Screen Shot 2017-10-09 at 3.40.03 PM.png)
+
+#### Step 5: Check if npm is install
 
 Type the command to check if npm is install or not in your local machine.
 

@@ -1,3 +1,12 @@
-# First Chapter
+#### Things need to be covered in installation
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+1. ###### Node Package Manager
+2. ###### Cordova and Ionic CLI
+3. ###### Code Editor
+4. ###### Android SDK
+5. ###### Java JDK
+
+#### 
+
+
+

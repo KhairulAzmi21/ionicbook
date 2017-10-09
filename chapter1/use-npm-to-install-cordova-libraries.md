@@ -1,8 +1,8 @@
-# Step 2: Use npm to install Cordova Libraries
+# Step 2: Use npm to install the Ionic CLI and Cordova for native app development
 
-If you have followed the step 1 of installing npm, now lets use the npm to install cordova. Apache **Cordova** is a popular mobile application development framework owned by Adobe now as PhoneGap.
+If you have followed the step 1 of installing npm, now lets use the npm to install **Ionic CLI** and **Cordova**. Apache **Cordova** is a popular mobile application development framework owned by Adobe now as PhoneGap.
 
-Ionic 2 use Cordova to access mobile native features like camera.
+**Ionic 3** use Cordova to access mobile native features like camera.
 
 ## Steps to install Cordova:
 
@@ -22,22 +22,24 @@ Output of the command should display the npm version:
 Run this command on your terminal
 
 ```
-npm install -g ionic cordova
+npm install -g ionic cordova 
+*note: you might need to add sudo for mac/linux user
 ```
 
-![](http://ionictuts.com/wp-content/uploads/2016/11/cordova.png "cordova-command")
+![](/assets/Screen Shot 2017-10-09 at 3.18.39 PM.png "cordova-command")
 
 Wait till the installation complete:
 
-![](http://ionictuts.com/wp-content/uploads/2016/11/cordova-2.png "cordova")
+![](/assets/Screen Shot 2017-10-09 at 3.22.12 PM.png "cordova")
 
 #### Step 2: Verifying the installation
 
-Run this command on your terminal to check if cordova is installed
+Run this command on your terminal to check if **cordova** and **ionic CLI** is installed
 
 ```
-cordova -info
+cordova -v
+ionic -v
 ```
 
-![](http://ionictuts.com/wp-content/uploads/2016/11/cordova-3.png "cordova-3")
+![](/assets/Screen Shot 2017-10-09 at 3.22.59 PM.png "cordova-3")
 
