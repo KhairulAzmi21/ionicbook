@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Installation](chapter1.md)
-  * [Install Node Package Manager \(npm\) using NodeJs](chapter1/install-node-package-manager-npm-using-nodejs.md)
+  * [Step 1: Install Node Package Manager \(npm\) using NodeJs](chapter1/install-node-package-manager-npm-using-nodejs.md)
+  * [Step 2: Use npm to install Cordova Libraries](chapter1/use-npm-to-install-cordova-libraries.md)
 * Second
 
